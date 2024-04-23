@@ -1,3 +1,3 @@
-_Descomplica_
+_Descomplica - Desenvolvimento Mobile_
 
 # Módulos, Rotas e Componentes
